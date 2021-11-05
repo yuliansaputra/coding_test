@@ -1,0 +1,9 @@
+file = open("/home/yulian/Documents/Tes_Amar_Bank/Dummy_data.txt")
+
+dictio = {}
+
+for value in file:
+    key, value = value.strip("\n").split(',')
+    dictio[key] = value
+
+print("Dictionary Data\n", dictio, "\n")
