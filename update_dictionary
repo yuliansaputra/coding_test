@@ -1,0 +1,12 @@
+# Set Dictionary Data
+sample_data = {'Name': 'Joe Jacksen', 'Age': 25, 'Address': 'USA', 'Phone_Number': '', 'Blood_Type': '', 'Email': ''}
+
+# Result Before Update
+print("Before Update\n", sample_data, '\n')
+
+# Update Dictionary Value
+data_update = {'Phone_Number': 123456789, 'Blood_Type': 'AB', 'Email': 'joe_j@mail.com'}
+sample_data.update(data_update)
+
+# Result After Update
+print("After Update\n", sample_data)
