@@ -1,0 +1,15 @@
+Val1,67
+Val2,
+Val3,36
+Val4,8
+Val5,
+Val6,11
+Val7,
+Val8,98
+Val9,75
+Val10,
+Val11,41
+Val12,5
+Val13,
+Val14,22
+Val15,
